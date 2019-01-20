@@ -1661,3 +1661,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.20-13.29.56:314][143]LogPlayLevel: Display: Destroying online subsystem :Context_35
 [2019.01.20-13.30.06:053][293]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV1/Saved/2DSideScrollerExampleMapA2B1F5C44B4B7759BB965DB2F924CB61.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV1/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
 [2019.01.20-13.30.06:076][293]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.131
+[2019.01.20-13.30.52:965][816]LogSlate: Window 'Ledge_5' being destroyed
+[2019.01.20-13.30.52:968][816]LogSlate: Window 'Ledge_5' being destroyed
